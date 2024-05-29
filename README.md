@@ -23,9 +23,8 @@ Model from: [https://github.com/GuiRitter/OpenBase](https://github.com/GuiRitter
 
 - Control the robot using keyboard keys: [teleop_keyboard_omni3](https://github.com/YugAjmera/teleop_keyboard_omni3)
 
-If our work is helpful to you, please kindly cite our paper as:
 
-```
+
 
 ![](screenshots/Screenshot%20from%202019-02-27%2000-17-33.png)
 
