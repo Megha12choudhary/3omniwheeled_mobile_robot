@@ -5,7 +5,7 @@
 ### Getting Started
 
 - `cd catkin_ws/src`
--  Clone this repo here : `git clone "https://github.com/YugAjmera/omni3ros_pkg"`
+-  Clone this repo here : `git clone
 - `cd ..` (Go back to catkin_ws/)
 - `catkin_make`
 - `source ./devel/setup.bash`
